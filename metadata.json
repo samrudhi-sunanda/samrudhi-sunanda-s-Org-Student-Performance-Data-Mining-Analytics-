@@ -1,0 +1,6 @@
+{
+  "name": "Student Performance Data Mining Analytics",
+  "description": "A Comparative Analysis of Data Mining Algorithms for Predicting Student Academic Performance Based on Learning and Behavioral Factors",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
